@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">crazy bear</string>
+
+
+    <string name = "rule1">The player can move a dot just each time;The ambulatory way of yellow
+    dots can be one space, or the one spaces jump up if yellow want to eat one red dots. "</string>
+</resources>
